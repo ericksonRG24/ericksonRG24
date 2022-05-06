@@ -1,5 +1,5 @@
 - 👋 salve, meu nome é erickson 
-- meu e-mail e erickson.amarante@escola.pr.gov.br
+- meu e-mail é erickson.amarante@escola.pr.gov.br
 -
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
